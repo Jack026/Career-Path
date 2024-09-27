@@ -1,4 +1,4 @@
-# main
+# Ai Career Path App
 
 A Career Recommendation app power by hackabytes
 
