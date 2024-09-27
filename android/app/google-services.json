@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1063858500299",
+    "project_id": "hackabytes-669ed",
+    "storage_bucket": "hackabytes-669ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063858500299:android:d69e3f885820d6f17de14e",
+        "android_client_info": {
+          "package_name": "com.hackabytes.careerpath.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063858500299-eecil87daasdvgie1qtnqveggoak92r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUdfGHqWr2sRfipwoPTOQXH2UGpdK9hqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063858500299-eecil87daasdvgie1qtnqveggoak92r4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063858500299-3njdc7i3kbqajdmda65eo4ng8jp8siqb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hackabytes.careerpath"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
