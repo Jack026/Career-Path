@@ -14,11 +14,20 @@ class ProfilePage extends StatelessWidget {
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Text(
-              'User Profile',
-              style: Theme.of(context).textTheme.headlineMedium,
-            ),
+           children: [
+  CircleAvatar(
+    radius: 45,
+    child: Icon(
+      Icons.person,
+      size: 50,
+    ),
+  ),
+  SizedBox(height: 20),
+  Text(
+    'User Profile',
+    style: Theme.of(context).textTheme.headlineMedium,
+  ),
+  SizedBox(height: 20),
             SizedBox(height: 20),
             if (user != null) ...[
               Text('Name: ${user.displayName ?? 'N/A'}'),
